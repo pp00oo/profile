@@ -1,3 +1,10 @@
 li {
   list-style:none;
 }
+
+.works{
+  color:red;
+}
+.likes{
+  color:blue;
+}

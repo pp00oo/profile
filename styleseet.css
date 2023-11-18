@@ -35,7 +35,10 @@ img{
   width:500px;
   height:200px;
 }
-
+.headerlist{
+  list-style: none;
+  float: left;
+}
 li{
   list-style:none;
 }

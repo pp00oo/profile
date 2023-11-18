@@ -11,27 +11,27 @@ h2{
 }
 
 h3{
-  font-color:red;
+  color:red;
 }
 
 h3{
-  font-color:yellow;
+  color:yellow;
 }
 
 h4{
-  font-color:green;
+  color:green;
 }
 
 h5{
-  font-color:blue;
+  color:blue;
 }
 
 h6{
-  font-color:purple;
+  color:purple;
 }
 
 h7{
-  font-color:black;
+  color:black;
 }
 img{
   width:500px;

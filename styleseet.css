@@ -37,3 +37,14 @@ img{
 li{
   list-style:none;
 }
+
+.links{
+  font-family:"メイリオ";
+  font-size:smaller;
+}
+
+.whats{
+  font-family:"ヒラギノ角ゴ ProN W3";
+  font-size:80%;
+}
+  

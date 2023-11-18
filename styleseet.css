@@ -58,3 +58,13 @@ li{
 .header li {
   float:left;
 }
+
+.header h2 {
+  font-size: 20%;
+  color:aqua;
+}
+
+.header span{
+  font-size: 30%;
+  color: aquamarine;
+}

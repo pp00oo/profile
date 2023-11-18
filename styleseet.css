@@ -4,6 +4,35 @@ h1{
   background-color:blue;
 }
 
+h2{
+  width:200px;
+  height:20px;
+  background-color:red;
+}
+
+h3{
+  font-color:red;
+}
+
+h3{
+  font-color:yellow;
+}
+
+h4{
+  font-color:green;
+}
+
+h5{
+  font-color:blue;
+}
+
+h6{
+  font-color:purple;
+}
+
+h7{
+  font-color:black;
+}
 img{
   width:500px;
   height:200px;

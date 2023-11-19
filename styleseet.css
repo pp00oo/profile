@@ -1,5 +1,10 @@
-background:rgb(246, 242, 241)
+background-color:rgb(246, 242, 241);
+color:rgb(253, 235, 235);
 
 .basic work more{
-    background: rgb(242, 213, 215);
+    background-color: rgb(242, 213, 215);
+}
+
+h4{
+    border: :3px solid rgb(253, 235, 235);
 }

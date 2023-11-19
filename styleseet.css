@@ -22,23 +22,17 @@ a :visited{
 /*なんかコンテンツの端っこが揃ってなくて変*/
 /*margin:箱の外側　padding：箱の内側*/
 .basic {
-    margin-left: 30%;
-    margin-right: 30%;
     /*↓多分反映されてない*/
     border: 1px dashed #A7767C
     padding: 30%;
 }
 
 .work {
-    margin-right: 30%;
-    margin-left:30%;
     padding: 30px;
 
 }
 
 .more {
-    margin-right: 30%;
-    margin-left: 30%;
-    padding: 10%;
+    padding: 30%;
 
 }

@@ -3,7 +3,7 @@ h4{
     /*↓コンテンツに合わせて箱の幅を合わせる*/
     width: fit-content;
 }
-/*全体の文字色・背景色を変えたい（できてない）けど、左右の幅はとれてる*/
+/*全体の文字色・背景色。bodyに効果を入れたいときは.bodyじゃない*/
 body{
     color: #48414D;
     background-color: #FAE5E3;
@@ -22,17 +22,18 @@ a :visited{
 /*なんかコンテンツの端っこが揃ってなくて変*/
 /*margin:箱の外側　padding：箱の内側*/
 .basic {
-    /*↓多分反映されてない*/
     border: 1px dashed #A7767C;
-    padding: 30%;
+    padding: 10%;
 }
 
 .work {
-    padding: 30%;
+    border:1px dashed #A7767C;
+    padding: 10%;
 
 }
 
 .more {
-    padding: 30%;
+    boder:1px dashed #A7767C
+    padding: 10%;
 
 }

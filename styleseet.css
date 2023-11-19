@@ -11,11 +11,12 @@ h4{
 a link{
     color:#48414D;
 }
-
+/*リンククリックした後の色を変えたい*/
 a :visited{
     color:bisque;
 }
-
+/*全体的に真ん中に寄せたい*/
+/*箱の左右を適当な位置で折り返したい*/
 .basic{
     background-color: #F8D6D4;
 }

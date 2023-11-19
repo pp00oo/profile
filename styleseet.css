@@ -4,7 +4,7 @@ h4{
     width: fit-content;
 }
 /*全体の文字色・背景色を変えたい（できてない）けど、左右の幅はとれてる*/
-.body{
+body{
     color: #48414D;
     background-color: #FAE5E3;
     margin-left: 20%;
@@ -23,12 +23,12 @@ a :visited{
 /*margin:箱の外側　padding：箱の内側*/
 .basic {
     /*↓多分反映されてない*/
-    border: 1px dashed #A7767C
+    border: 1px dashed #A7767C;
     padding: 30%;
 }
 
 .work {
-    padding: 30px;
+    padding: 30%;
 
 }
 

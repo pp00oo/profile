@@ -55,8 +55,7 @@ li{
 .header-list li{
   float: right;
 }
-.header li {
-  float:left;
+.header li {  float:left;
 }
 
 .header h2 {

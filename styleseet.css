@@ -3,9 +3,10 @@ h4{
     /*↓コンテンツに合わせて箱の幅を合わせる*/
     width: fit-content;
 }
-/*全体の文字色を変えたい（できてない）*/
+/*全体の文字色・背景色を変えたい（できてない）けど、左右の幅はとれてる*/
 .body{
     color: #48414D;
+    background-color: #FAE5E3;
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -17,19 +18,17 @@ a link{
 a :visited{
     color:bisque;
 }
-/*全体的に真ん中に寄せたい*/
 /*箱の左右を適当な位置で折り返したい*/
 /*margin:箱の外側　padding：箱の内側*/
 .basic {
-    background-color: #F8D6D4;
     margin-left: 30%;
     margin-right: 30%;
+    /*↓多分反映されてない*/
     border: 1px dashed #A7767C
     padding: 30%;
 }
 
 .work {
-    background-color: #F8D6D4;
     margin-right: 30%;
     margin-left:30%;
     padding: 30px;
@@ -37,7 +36,6 @@ a :visited{
 }
 
 .more {
-    background-color: #F8D6D4;
     margin-right: 10%;
     margin-left: 20%;
     padding: 10%;

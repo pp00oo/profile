@@ -3,17 +3,17 @@ h4{
     /*↓コンテンツに合わせて箱の幅を合わせる*/
     width: fit-content;
 }
+.body{
+    color: #48414D;
+}
 .basic{
-    padding: 20%;
     background-color: #F8D6D4;
 }
 
 .work{
-    padding: 20px;
     background-color: #F8D6D4;
 }
 
 .more{
-    padding: 20%;
     background-color: #F8D6D4;
 }

@@ -37,3 +37,13 @@ a :visited{
     padding: 10%;
 
 }
+
+.header {
+    height:200px;
+    background-image:url("https://github.com/pp0oo/profile/flower.jpg");
+    background-size:cover;
+}
+
+.header h1 {
+    color:#FAE5E3
+}

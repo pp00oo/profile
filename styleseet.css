@@ -3,9 +3,19 @@ h4{
     /*↓コンテンツに合わせて箱の幅を合わせる*/
     width: fit-content;
 }
+/*全体の文字色を変えたい*/
 .body{
     color: #48414D;
 }
+/*リンクの色を文字色と一緒にしたい*/
+a link{
+    color:#48414D;
+}
+
+a :visited{
+    color:bisque;
+}
+
 .basic{
     background-color: #F8D6D4;
 }

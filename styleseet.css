@@ -19,6 +19,7 @@ a :visited{
     color:bisque;
 }
 /*箱の左右を適当な位置で折り返したい*/
+/*なんかコンテンツの端っこが揃ってなくて変*/
 /*margin:箱の外側　padding：箱の内側*/
 .basic {
     margin-left: 30%;
@@ -36,8 +37,8 @@ a :visited{
 }
 
 .more {
-    margin-right: 10%;
-    margin-left: 20%;
+    margin-right: 30%;
+    margin-left: 30%;
     padding: 10%;
 
 }

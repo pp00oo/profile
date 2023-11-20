@@ -41,8 +41,7 @@ a :visited{
 .header-image {
     height: 200px;
     background-image:url("https://github.com/pp0oo/profile/flower.jpg");
-    background-size:cover;
-}
+    }
 
 .header-image h1 {
     color:#FAE5E3

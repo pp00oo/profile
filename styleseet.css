@@ -1,9 +1,9 @@
 
 /*リンクの色を文字色と一緒にしたい（できてない）*/
-　a:link { color: #0000ff; } 
+　a:link { color: #deb887; } 
 /*リンククリックした後の色を変えたい（できてない）*/
 a:visited{
-    color:bisque;
+    color:#f5deb3;
 }
 h4{
     border: 2px solid #A7767C;

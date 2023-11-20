@@ -1,6 +1,6 @@
 
 /*リンクの色を文字色と一緒にしたい（できてない）*/
-　a:link { color: #deb887; } 
+a:link { color: #deb887; } 
 /*リンククリックした後の色を変えたい（できてない）*/
 a:visited{
     color:#f5deb3;

@@ -35,7 +35,11 @@ a :visited{
 .more {
     border:1px dashed #A7767C;
     padding: 10%;
+}
 
+.links {
+    border:1px dashed #A7767C;
+    padding:10%;
 }
 
 .header-image {

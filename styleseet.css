@@ -52,3 +52,8 @@ body{
 .header-image h1 {
     color:#FAE5E3
 }
+
+.title{
+    backgroud-color:#A7767C;
+    border-radius:10px;
+}

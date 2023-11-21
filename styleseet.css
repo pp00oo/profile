@@ -39,6 +39,7 @@ body{
 .links {
     border:1px dashed #A7767C;
     padding:10%;
+    
 }
 
 .header-image {
@@ -56,4 +57,5 @@ body{
 .title{
     background-color:#faf0e6;
     border-radius:10px;
+    width: fit-content;
 }

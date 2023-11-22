@@ -14,8 +14,6 @@ h4{
 body{
     color: #48414D;
     background-color: #FAE5E3;
-    margin-left: 20%;
-    margin-right: 20%;
 }
 /*箱の左右を適当な位置で折り返したい*/
 /*なんかコンテンツの端っこが揃ってなくて変*/
@@ -23,24 +21,15 @@ body{
 .basic {
     border: 1px dashed #A7767C;
     padding: 10%;
-    margin-left: 20%;
-    margin-right: 20%
 
 .more {
     border:1px dashed #A7767C;
     padding: 10%;
-    margin-left: 20%;
-    margin-right: 20%;
-    width: 12em
 }
 
 .links {
     border:1px dashed #A7767C;
     padding:10%;
-    margin-left: 20%;
-    margin-right: 20%;
-    width: 12em
-    
 }
 
 .header-image {

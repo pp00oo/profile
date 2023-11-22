@@ -59,3 +59,8 @@ body{
     border-radius:10px;
     width: fit-content;
 }
+
+.fab {
+  font-size: 36px;
+  text-decoration: none;
+}

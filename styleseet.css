@@ -55,3 +55,8 @@ body{
   text-decoration: none;
   color:#708090;
 }
+
+summary {
+  display: block;
+  list-style: none;
+}

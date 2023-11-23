@@ -55,8 +55,11 @@ body{
   text-decoration: none;
   color:#708090;
 }
-
+/*折りたたみの三角を消す*/
 summary {
   display: block;
   list-style: none;
+}
+summary::-webkit-details-marker {
+  display:none;
 }

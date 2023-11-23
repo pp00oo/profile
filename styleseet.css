@@ -18,32 +18,12 @@ body{
 /*箱の左右を適当な位置で折り返したい*/
 /*なんかコンテンツの端っこが揃ってなくて変*/
 /*margin:箱の外側　padding：箱の内側*/
-.basic {
+.cont {
     border: 1px dashed #A7767C;
     padding: 10%;
     /*marginにautoしたいときはwidthを指定しないとダメ*/
     width:200px;
     margin:0 auto;
-}
-
-.more {
-    border:1px dashed #A7767C;
-    padding: 10%;
-    margin-right:20%;
-    margin-left:20%;
-}
-
-.work {
-    border:1px dashed #A7767C;
-    padding: 10%;
-    margin-right:20%;
-    margin-left:20%;
-}
-.links {
-    border:1px dashed #A7767C;
-    padding:10%;
-    margin-right:20%;
-    margin-left:20%;
 }
 
 .header-image {

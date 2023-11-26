@@ -5,11 +5,7 @@ a:link { color: #deb887; }
 a:visited{
     color:#f5deb3;
 }
-h4{
-    border: 2px solid #A7767C;
-    /*↓コンテンツに合わせて箱の幅を合わせる*/
-    width: fit-content;
-}
+
 /*全体の文字色・背景色。bodyに効果を入れたいときは.bodyじゃない*/
 body{
     color: #48414D;
@@ -27,6 +23,15 @@ body{
     text-align:center;
 }
 
+.cont h4{
+    background-color:#faf0e6;
+    border-radius:10px;
+    /*↓コンテンツに合わせて箱の幅を合わせる*/
+    width: fit-content;
+    margin:0 auto;
+    text-align:center;
+    box-shadow:2px 2px #98fb98;
+}
 .header-image {
     height:100px;
     background-image:url("https://pp00oo.github.io/profile/flower.jpg");
@@ -43,6 +48,7 @@ body{
 
 .title{
     background-color:#faf0e6;
+    /*↓角丸*/
     border-radius:10px;
     width: fit-content;
     margin:0 auto;

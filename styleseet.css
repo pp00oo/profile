@@ -25,6 +25,7 @@ body{
 
 .cont h4{
     background-color:#faf0e6;
+    /*↓角丸*/
     border-radius:10px;
     /*↓コンテンツに合わせて箱の幅を合わせる*/
     width: fit-content;
